@@ -20,8 +20,9 @@
             android:text="文件名"
             android:textSize="30sp" />
     <Button
-        android:layout_width="100dp"
-        android:layout_height="wrap_content"
-        android:layout_gravity="right"
-        android:text="选择文件" />
+    android:id = "@+id/openFIleBtn"  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="打开文件"
+    />
 </LinearLayout>

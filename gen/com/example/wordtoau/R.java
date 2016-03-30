@@ -76,44 +76,64 @@ public final class R {
         public static final int setting_p=0x7f020004;
     }
     public static final class id {
-        public static final int action_settings=0x7f0b000e;
-        public static final int btn=0x7f0b0002;
+        public static final int about=0x7f0b0015;
+        public static final int action_settings=0x7f0b0012;
+        public static final int btn=0x7f0b0004;
         public static final int contentText=0x7f0b0000;
-        public static final int image_tts_set=0x7f0b0004;
+        public static final int gb2312=0x7f0b0014;
+        public static final int image_tts_set=0x7f0b0008;
         public static final int lableText=0x7f0b0001;
-        public static final int listview_main=0x7f0b0003;
-        public static final int tts_btn_person_select=0x7f0b0009;
-        public static final int tts_cancel=0x7f0b000b;
-        public static final int tts_pause=0x7f0b000c;
-        public static final int tts_play=0x7f0b000a;
-        public static final int tts_radioCloud=0x7f0b0007;
-        public static final int tts_radioLocal=0x7f0b0008;
-        public static final int tts_rediogroup=0x7f0b0006;
-        public static final int tts_resume=0x7f0b000d;
-        public static final int tts_text=0x7f0b0005;
+        public static final int listview_main=0x7f0b0005;
+        public static final int openFIleBtn=0x7f0b0002;
+        public static final int text1=0x7f0b0007;
+        public static final int tts_btn_person_select=0x7f0b000d;
+        public static final int tts_cancel=0x7f0b000f;
+        public static final int tts_pause=0x7f0b0010;
+        public static final int tts_play=0x7f0b000e;
+        public static final int tts_radioCloud=0x7f0b000b;
+        public static final int tts_radioLocal=0x7f0b000c;
+        public static final int tts_rediogroup=0x7f0b000a;
+        public static final int tts_resume=0x7f0b0011;
+        public static final int tts_text=0x7f0b0009;
+        public static final int utf8=0x7f0b0013;
+        public static final int view_contents=0x7f0b0003;
+        public static final int vw1=0x7f0b0006;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
         public static final int activity_read=0x7f030001;
-        public static final int list_items=0x7f030002;
-        public static final int main=0x7f030003;
-        public static final int title=0x7f030004;
-        public static final int ttsdemo=0x7f030005;
+        public static final int filebrowser=0x7f030002;
+        public static final int filelist=0x7f030003;
+        public static final int list_items=0x7f030004;
+        public static final int main=0x7f030005;
+        public static final int row=0x7f030006;
+        public static final int title=0x7f030007;
+        public static final int ttsdemo=0x7f030008;
     }
     public static final class menu {
         public static final int main=0x7f0a0000;
+        public static final int menu=0x7f0a0001;
     }
     public static final class string {
+        public static final int about=0x7f07001c;
+        public static final int aboutInfo=0x7f07001f;
+        public static final int aboutOK=0x7f070020;
+        public static final int aboutTitle=0x7f07001e;
         public static final int action_settings=0x7f070011;
         /**  请替换成在语音云官网申请的appid 
          */
         public static final int app_id=0x7f070001;
         public static final int app_name=0x7f070000;
+        public static final int code_gb2312=0x7f07001b;
+        /**  zzm add 
+         */
+        public static final int code_utf8=0x7f07001a;
         public static final int example_explain=0x7f070002;
         public static final int hello_world=0x7f070012;
         public static final int pref_key_iat_show=0x7f07000e;
         public static final int pref_title_iat_dwa=0x7f070010;
         public static final int pref_title_iat_show=0x7f07000f;
+        public static final int swich_code=0x7f07001d;
         /**  听写 
          */
         public static final int text_begin=0x7f070007;
