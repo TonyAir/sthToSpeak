@@ -14,7 +14,7 @@ import android.view.View.OnClickListener;
 import android.widget.TextView;
 
 public class ReadActivity extends Activity implements OnClickListener {
-
+	//修改
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
