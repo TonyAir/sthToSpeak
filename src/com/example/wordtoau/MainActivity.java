@@ -42,7 +42,7 @@ public class MainActivity extends Activity implements OnClickListener {
 			break;
 		case 1:
 			// 选取文件读书
-			intent = new Intent(MainActivity.this, ReadActivity.class);
+			intent = new Intent(MainActivity.this, ListAllFileActivity.class);
 			break;
 		default:
 			showTip("在IsvDemo中哦，为了代码简洁，就不放在一起啦，^_^");
